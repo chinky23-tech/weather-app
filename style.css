@@ -84,6 +84,8 @@ body {
     border: 2px solid rgb(24, 108, 219);
     background-color: rgb(24, 108, 219);
     color: white;
+    font-size: 13px;
+    font-weight: bold;
 }
 #weather-icon{
     font-size: 90px;
